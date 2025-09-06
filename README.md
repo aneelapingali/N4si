@@ -11,10 +11,9 @@
 
 - 📫 How to reach me **aneelapingali04@gmail.com**
 - 📄 Know about my experiences
-- **https://aneela2004.github.io/4226-project5/**
-- **https://aneela2004.github.io/4226-project4/**
-- **https://aneela2004.github.io/anee/**
-
+- <a href="https://aneela2004.github.io/4226-project5/">https://aneela2004.github.io/4226-project5/</a>
+- <a href="https://aneela2004.github.io/4226-project4">https://aneela2004.github.io/4226-project4</a>
+- <a href="https://aneela2004.github.io/anee/">https://aneela2004.github.io/anee/</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
