@@ -10,8 +10,10 @@
 - 💬 Ask me about **Songs,Tech**
 
 - 📫 How to reach me **aneelapingali04@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SWbfW2DgPW7yOFhffjNjvbYOgEmMQ4T1/view?usp=drivesdk)
-
+- 📄 Know about my experiences
+- https://aneela2004.github.io/4226-project5/
+- https://aneela2004.github.io/4226-project4/
+- https://aneela2004.github.io/anee/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
